@@ -9,7 +9,7 @@ nav:
   - contact: contact.md
 
 theme:
-  name: material
+  name: windmill
 
 plugins:
   - search
@@ -36,4 +36,4 @@ extra:
 
 
 repo_name: qcversity/blue-book
-repo_url: https://github.com/qcversity/blue-book
+repo_url: https://github.com/qcversity/python-versity
