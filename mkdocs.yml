@@ -10,6 +10,17 @@ nav:
 
 theme:
   name: windmill
+  custom_dir: theme/
+  extra_css:
+    - css/main.css
+  logo: img/logo.bmp
+  features:
+    - navigation.footer
+    - navigation.instant
+    - navigation.top
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
 
 plugins:
   - search
