@@ -1,0 +1,39 @@
+site_name: Python Versity
+site_description: Quant Coding Versity for Python
+site_author: Dr Saad Laouadi
+site_url: https://qcversity.github.io/python-versity
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - contact: contact.md
+
+theme:
+  name: material
+
+plugins:
+  - search
+  - exclude-search:
+      exclude: [newsletter/*]
+  - autolinks
+  # - git-revision-date-localized:
+  #     type: timeago
+  - minify:
+      minify_html: true
+  - section-index
+  # - mkdocs-newsletter
+
+extra:
+  article_nav_top: false
+  article_nav_bottom: false
+  history_buttons: false
+  version: 1.0.0
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/lyz-code
+    - icon: fontawesome/solid/rss
+      link: https://lyz-code.github.io/blue-book/newsletter/0_newsletter_index
+
+
+repo_name: qcversity/blue-book
+repo_url: https://github.com/qcversity/blue-book
