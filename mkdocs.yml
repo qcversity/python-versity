@@ -4,8 +4,8 @@ site_author: Dr Saad Laouadi
 site_url: https://qcversity.github.io/python-versity
 
 nav:
-  - Introduction: index.md
   - About: about.md
+  - Introduction: index.md
   - Development Tools:
       - Unix-Like Systems Tools:
         - DevTools/UnixLike-Systems-Tools.md
