@@ -2,17 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://qcversity.github.io/python-versity/</loc>
-         <lastmod>2023-12-05</lastmod>
+         <lastmod>2023-12-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://qcversity.github.io/python-versity/about/</loc>
-         <lastmod>2023-12-05</lastmod>
+         <lastmod>2023-12-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://qcversity.github.io/python-versity/contact/</loc>
-         <lastmod>2023-12-05</lastmod>
+         <loc>https://qcversity.github.io/python-versity/Built-in%20Methods/Abs%20method/</loc>
+         <lastmod>2023-12-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://qcversity.github.io/python-versity/Built-in%20Methods/introduction/</loc>
+         <lastmod>2023-12-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://qcversity.github.io/python-versity/DevTools/UnixLike-Systems-Tools/</loc>
+         <lastmod>2023-12-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://qcversity.github.io/python-versity/DevTools/Windows%20Tools/</loc>
+         <lastmod>2023-12-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://qcversity.github.io/python-versity/Envsetup/Unix-Based%20Systems%20Setup/</loc>
+         <lastmod>2023-12-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://qcversity.github.io/python-versity/Envsetup/Windows%20Setup/</loc>
+         <lastmod>2023-12-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
