@@ -4,23 +4,36 @@ site_author: Dr Saad Laouadi
 site_url: https://qcversity.github.io/python-versity
 
 nav:
-  - Home: index.md
+  - Introduction: index.md
   - About: about.md
-  - contact: contact.md
+  - Development Tools:
+      - Unix-Like Systems Tools:
+        - DevTools/UnixLike-Systems-Tools.md
+      - Windows Tools:
+        - DevTools/Windows Tools.md
+  - Environment Setup:
+      - Unix-Based Systems Setup: Envsetup/Unix-Based Systems Setup.md
+      - Windows Setup: Envsetup/Windows Setup.md
+  - Built-in Methods:
+      - Introduction:
+        - Built-in Methods/introduction.md
+      - Abs Method: 'Built-in Methods/Abs method.md'
+
+
 
 theme:
-  name: windmill
+  name: null
   custom_dir: theme/
-  extra_css:
-    - css/main.css
-  logo: img/logo.bmp
-  features:
-    - navigation.footer
-    - navigation.instant
-    - navigation.top
-    - content.code.annotate
-    - search.suggest
-    - search.highlight
+  # extra_css:
+  #   - css/main.css
+  # logo: img/logo.bmp
+  # features:
+  #   - navigation.footer
+  #   - navigation.instant
+  #   - navigation.top
+  #   - content.code.annotate
+  #   - search.suggest
+  #   - search.highlight
 
 plugins:
   - search
@@ -41,10 +54,10 @@ extra:
   version: 1.0.0
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/lyz-code
+      link: https://github.com/qcversity
     - icon: fontawesome/solid/rss
-      link: https://lyz-code.github.io/blue-book/newsletter/0_newsletter_index
+      link: https://qcversity.github.io/blue-book/newsletter/0_newsletter_index
 
 
-repo_name: qcversity/blue-book
+repo_name: qcversity/python-versity
 repo_url: https://github.com/qcversity/python-versity
